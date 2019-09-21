@@ -9,3 +9,10 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 - [.py example](https://github.com/hamdikavak/cds230/blob/fall-2019/helloworld.py)
 - [Numbers and Variables](https://github.com/hamdikavak/cds230/blob/fall-2019/numbers_and_variables.ipynb)
 - [Simple Pyhsics Models](https://github.com/hamdikavak/cds230/blob/fall-2019/in_class_exercise_9.11.2019.ipynb)
+
+## Module 3
+- [Comparison](https://github.com/hamdikavak/cds230/blob/fall-2019/comparison.ipynb)
+
+## Module 4
+- [Strings](https://github.com/hamdikavak/cds230/blob/fall-2019/strings.ipynb)
+
