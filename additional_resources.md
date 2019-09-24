@@ -18,3 +18,20 @@
 [1. Python Operators](http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/op_precedence.html)
 
 [2. bigfloat: A python package for exact floating point arithmetic](https://pythonhosted.org/bigfloat/)
+
+[3. decimal - Decimal fixed point and floating point arithmetic](https://docs.python.org/3.7/library/decimal.html) shared by Augusto Romero (CDS 230 - Fall 2019)
+
+[4. Python Code Execution Visualizer](http://www.pythontutor.com/visualize.html) shared by Alberto Rodriguez (CDS 230 - Fall 2019)
+
+[5. Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw) shared by Augusto Romero (CDS 230 - Fall 2019)
+
+
+## Videos
+
+[1. How would things move in the vacuum of space?](https://www.youtube.com/watch?v=E43-CfukEgs&t=189s) shared by Alberto Rodriguez (CDS 230 - Fall 2019)
+
+
+## Miscellaneous
+
+[1. GMU Student-Run Computing and Technology (SRCT) organization](https://srct.gmu.edu/) shared by Augusto Romero (CDS 230 - Fall 2019)
+
