@@ -22,3 +22,4 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 
 ## Module 6
 - [Functions - I](https://github.com/hamdikavak/cds230/blob/fall-2019/functions.ipynb)
+- [Functions - II and Object Oriented Programming](https://github.com/hamdikavak/cds230/blob/fall-2019/functions2andclasses.ipynb)
