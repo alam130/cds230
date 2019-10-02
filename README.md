@@ -19,3 +19,6 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 ## Module 5
 - [Collections](https://github.com/hamdikavak/cds230/blob/fall-2019/collections.ipynb)
 - [Loops and Control Flow](https://github.com/hamdikavak/cds230/blob/fall-2019/loops-control-flow.ipynb)
+
+## Module 6
+- [Functions - I](https://github.com/hamdikavak/cds230/blob/fall-2019/functions.ipynb)
