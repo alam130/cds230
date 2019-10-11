@@ -12,6 +12,10 @@
 
 [2. Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+[3. NumPy Cheat Sheet](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf)
+
+[4. Matplotlib Cheat Sheet](https://github.com/rougier/matplotlib-cheatsheet/blob/master/matplotlib-cheatsheet.pdf)
+
 
 ## Python References
 
