@@ -39,5 +39,5 @@
 
 [1. GMU Student-Run Computing and Technology (SRCT) organization](https://srct.gmu.edu/) shared by Augusto Romero (CDS 230 - Fall 2019)
 
-["2. Calculus Made Easy" ebook by Silvanus Thompson](https://www.gutenberg.org/files/33283/33283-pdf.pdf)
+[2. "Calculus Made Easy" ebook by Silvanus Thompson](https://www.gutenberg.org/files/33283/33283-pdf.pdf)
 
