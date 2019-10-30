@@ -28,3 +28,6 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 - [NumPy - I](https://github.com/hamdikavak/cds230/blob/fall-2019/numpy1.ipynb)
 - [Matplotlib and Example Questions](https://github.com/hamdikavak/cds230/blob/fall-2019/matplotlib-and-example-questions.ipynb)
 - [NumPy and Matplotlib - II](https://github.com/hamdikavak/cds230/blob/fall-2019/numpy2.ipynb)
+
+## Module 8
+- [Chaos Example](https://github.com/hamdikavak/cds230/blob/fall-2019/chaos.ipynb)
