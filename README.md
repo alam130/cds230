@@ -31,3 +31,4 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 
 ## Module 8
 - [Chaos Example](https://github.com/hamdikavak/cds230/blob/fall-2019/chaos.ipynb)
+- [Ordinary Differential Equations Examples](https://github.com/hamdikavak/cds230/blob/fall-2019/ode_examples.ipynb)
