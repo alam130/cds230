@@ -35,4 +35,9 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 
 ## Module 9
 - [Random Numbers](https://github.com/hamdikavak/cds230/blob/fall-2019/random_numbers.ipynb)
-- [Non-Uniform Distributions and Examples](https://github.com/hamdikavak/cds230/blob/fall-2019/non-uniform-distributions-and-examples.ipynb)
+- [Non-Uniform Distributions and Examples - I](https://github.com/hamdikavak/cds230/blob/fall-2019/non-uniform-distributions-and-examples.ipynb)
+[Example problems about uncertain games](https://github.com/hamdikavak/cds230/blob/fall-2019/example-uncertain-games.ipynb)
+
+## Module 10
+- [Monte Carlo Simulation](https://github.com/hamdikavak/cds230/blob/fall-2019/monte-carlo-simulation.ipynb)
+
