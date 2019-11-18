@@ -40,4 +40,4 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 
 ## Module 10
 - [Monte Carlo Simulation](https://github.com/hamdikavak/cds230/blob/fall-2019/monte-carlo-simulation.ipynb)
-
+- [Monte Carlo Simulation (The Yahtzee Example)](https://github.com/hamdikavak/cds230/blob/fall-2019/monte-carlo-simulation-cont.ipynb)
