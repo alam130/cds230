@@ -43,3 +43,7 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 - [Monte Carlo Simulation (The Yahtzee Example)](https://github.com/hamdikavak/cds230/blob/fall-2019/monte-carlo-simulation-cont.ipynb)
 - [Monte Carlo Simulation (The Monty Hall Problem)](https://github.com/hamdikavak/cds230/blob/fall-2019/monte-carlo-simulation-examples.ipynb)
 
+
+## Example Problems
+
+- [Example Problems (Nov 25, 2019)](https://github.com/hamdikavak/cds230/blob/fall-2019/example-problems-11.25.2019.ipynb)
