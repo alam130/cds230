@@ -32,7 +32,10 @@
 
 ## Videos
 
-[1. How would things move in the vacuum of space?](https://www.youtube.com/watch?v=E43-CfukEgs&t=189s) shared by Alberto Rodriguez (CDS 230 - Fall 2019)
+[1. How to do the GitHub (The Absolute Basics)](https://www.youtube.com/watch?v=EUvmCuPjHD4)
+
+[2. How would things move in the vacuum of space?](https://www.youtube.com/watch?v=E43-CfukEgs&t=189s) shared by Alberto Rodriguez (CDS 230 - Fall 2019)
+
 
 
 ## Miscellaneous
