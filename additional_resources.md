@@ -29,7 +29,7 @@
 
 [5. Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw) shared by Augusto Romero (CDS 230 - Fall 2019)
 
-[6. Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) first 35 lectures are recommended.
+[6. Python for Beginners [44 short videos]](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) first 35 videos are recommended.
 
 
 ## Videos
