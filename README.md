@@ -9,7 +9,7 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 
 ### MODULE 1 - Introduction
 
-[Welcome Video] (https://www.youtube.com/watch?v=H43B112zfuY)
+[Welcome Video](https://www.youtube.com/watch?v=H43B112zfuY)
 
 ### MODULE 2 - Getting Started with Python
 
