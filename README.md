@@ -9,9 +9,9 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 
 ### MODULE 1 - Introduction
 
-[Welcome Video](https://www.youtube.com/watch?v=H43B112zfuY)
-[A Video Explaining Simulation of Universe](https://www.youtube.com/watch?v=QeokV7xJDp4)
-[American vs. European Weather Models](https://www.washingtonpost.com/weather/2019/11/22/so-what-exactly-are-european-american-weather-models/)
+- [Welcome Video](https://www.youtube.com/watch?v=H43B112zfuY)
+- [A Video Explaining Simulation of Universe](https://www.youtube.com/watch?v=QeokV7xJDp4)
+- [American vs. European Weather Models](https://www.washingtonpost.com/weather/2019/11/22/so-what-exactly-are-european-american-weather-models/)
 
 ### MODULE 2 - Getting Started with Python
 
