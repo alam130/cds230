@@ -15,7 +15,9 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 
 ### MODULE 2 - Getting Started with Python
 
-- [.py code example](https://github.com/hamdikavak/cds230/blob/spring-2020/Module 2 - Getting Started with Python/helloworld.py)
+- [.py code example](https://github.com/hamdikavak/cds230/blob/spring-2020/Module%202%20-%20Getting%20Started%20with%20Python/helloworld.py)
+- [Variables and Basic Data Types in Python](https://github.com/hamdikavak/cds230/blob/spring-2020/Module%202%20-%20Getting%20Started%20with%20Python/numbers_and_variables.ipynb)
+- [Simple Physics Models¶](https://github.com/hamdikavak/cds230/blob/spring-2020/Module%202%20-%20Getting%20Started%20with%20Python/simple_physics_models.ipynb)
 
 ### MODULE 3 - Control Flow
 
