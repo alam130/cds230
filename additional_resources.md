@@ -1,4 +1,4 @@
-# CDS 230 - Modeling and Simulation 1 - Fall 2019
+# CDS 230 - Modeling and Simulation 1
 
 # Additional Resources
 
