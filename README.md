@@ -17,11 +17,12 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 
 - [.py code example](https://github.com/hamdikavak/cds230/blob/spring-2020/Module%202%20-%20Getting%20Started%20with%20Python/helloworld.py)
 - [Variables and Basic Data Types in Python](https://github.com/hamdikavak/cds230/blob/spring-2020/Module%202%20-%20Getting%20Started%20with%20Python/numbers_and_variables.ipynb)
-- [Simple Physics Models¶](https://github.com/hamdikavak/cds230/blob/spring-2020/Module%202%20-%20Getting%20Started%20with%20Python/simple_physics_models.ipynb)
+- [Simple Physics Models](https://github.com/hamdikavak/cds230/blob/spring-2020/Module%202%20-%20Getting%20Started%20with%20Python/simple_physics_models.ipynb)
 
 ### MODULE 3 - Control Flow
 
-TBA
+- [Comparisons, Logic, and Conditional Statements](https://github.com/hamdikavak/cds230/blob/spring-2020/Module%203%20-%20Control%20Flow/comparison.ipynb)
+
 
 ### MODULE 4 - Strings
 
